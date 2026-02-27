@@ -2,4 +2,6 @@ const a= "hola";
 const b="namaste";
 a='himalika';
 
-const c = "fgfdgdf"
+const c = "fgfdgdf";
+
+const f="hima";
